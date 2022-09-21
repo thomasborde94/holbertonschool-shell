@@ -11,3 +11,4 @@
 10-back gets you back to the previous working directory
 11-lists displays lists from current and parent directory
 12-file_type displays the type of a specific file
+13-symbolic_link creates a symbolic link to a specific directory
