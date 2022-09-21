@@ -9,3 +9,5 @@
 8-firstdelete deletes the file betty
 9-firstdeletion deletes a specific directory in another specific directory
 10-back gets you back to the previous working directory
+11-lists displays lists from current and parent directory
+12-file_type displays the type of a specific file
