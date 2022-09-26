@@ -9,3 +9,4 @@
 8-James_Bond sets specific permissions : no permissions for the owner and group, other users = all permissions
 9-John_Doe sets specific permissions : -rwxr-x-wx
 10-mirror_permissions sets the mode of the file hello the same as olleh's mode
+11-directories_permissions adds execute permissions to all subdirectories of the current directory for the owner, the group owner and other users
