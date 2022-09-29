@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$((5#$WATER+5#$STIR))"
+echo $WATER | tr 'water' '01234'
