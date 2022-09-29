@@ -1,2 +1,3 @@
 #!/bin/bash
-rev | rev
+echo "$((5$WATER+5$STIR))" | printf "%o\n"
+
